@@ -1,8 +1,3 @@
-# README
-
-#### 
- - git ignore<br>
-
 # Guide
 
 ## Pre-requisites
